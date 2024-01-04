@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: rnm
+Version: 0.1.0
+Summary: A simple CLI application
+Author: David
+Author-email: your.email@example.com
+Requires-Dist: click

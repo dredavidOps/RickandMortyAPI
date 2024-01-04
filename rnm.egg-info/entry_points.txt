@@ -1,0 +1,2 @@
+[console_scripts]
+rnm = rnm.utils:main
